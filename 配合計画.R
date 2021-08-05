@@ -4,6 +4,8 @@ library(AlgDesign)
 library(plotly)
 
 
+# ’¼Œğ•\
+## 3•Ï”‚Ìê‡‚Í
 dat <- gen.factorial(3, 4, varNames = c("A", "B", "C", "D"))
 dat
 
